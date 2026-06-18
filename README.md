@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**2WQC/2WQC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Physicist turned quantitative finance enthusiast, focused on systematic investing, financial markets, and data-driven research.
 
-Here are some ideas to get you started:
+Currently exploring applications of quantum computing in quantitative finance and optimization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus Areas
+
+- Quantitative Finance
+- Risk Analysis
+- Financial Markets
+- Quantum Computing
+
+## Tech Stack
+
+**Python** · Pandas · NumPy · SciPy · Matplotlib · Qiskit · Git · JupyterLab
